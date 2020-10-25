@@ -6,12 +6,12 @@ body {
   text-align: center;
 }
 
+main,
 #film-strip {
   display: flex;
 }
 
 main {
-  display: flex;
   flex-direction: column;
   margin: 0 auto;
   width: 100vw;
