@@ -20,4 +20,5 @@ main {
 #film-strip {
   border-bottom: 1px solid #f5f5f5;
   border-top: 1px solid #f5f5f5;
+  max-width: 1200px;
 }
