@@ -23,3 +23,8 @@ main {
   max-width: 1200px;
   padding: 1rem 0;
 }
+
+figure {
+  margin: 0;
+  padding: 0;
+}
