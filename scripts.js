@@ -1,4 +1,5 @@
 const displayImg = document.querySelector("#display img");
+const circleBtn = document.querySelector("#circle-btn");
 const fsImages = document.querySelectorAll("#film-strip img");
 
 fsImages.forEach(function (fsImg) {
@@ -7,3 +8,5 @@ fsImages.forEach(function (fsImg) {
     displayImg.alt = event.target.alt;
   });
 });
+
+circleBtn.addEventListener("click", () => {});
