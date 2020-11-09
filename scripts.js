@@ -9,4 +9,10 @@ fsImages.forEach(function (fsImg) {
   });
 });
 
-circleBtn.addEventListener("click", () => {});
+circleBtn.addEventListener("click", () => {
+  if (document.getElementById("display")) {
+    document.getElementById("display").id = "display-circle";
+  } else {
+    document.getElementById("display-circle").id = "display";
+  }
+});
