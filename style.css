@@ -52,6 +52,12 @@ main,
   max-height: 40vh;
 }
 
+#display-circle img {
+  border: 1px solid #ffc922;
+  border-radius: 50%;
+  max-height: 40vh;
+}
+
 #film-strip img:focus,
 #film-strip img:hover {
   cursor: pointer;
