@@ -58,6 +58,7 @@ main,
   max-height: 40vh;
 }
 
+#circle-btn,
 #film-strip img:focus,
 #film-strip img:hover {
   cursor: pointer;
