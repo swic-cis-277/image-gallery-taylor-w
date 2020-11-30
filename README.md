@@ -20,6 +20,10 @@ One of these extensions uses [Kite](https://www.kite.com/javascript/). Students 
 
 ---
 
+Added feature includes a 'button' that allows the user to modify the main centered image into a 'circle' shaped image.
+
+---
+
 <a href="https://gitmoji.carloscuesta.me">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
